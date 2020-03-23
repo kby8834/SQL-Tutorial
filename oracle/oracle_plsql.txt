@@ -1,0 +1,7 @@
+SET SERVEROUTPUT ON
+DECLARE
+    name VARCHAR2(10) := '김보영';
+BEGIN
+    DBMS_OUTPUT.PUT_LINE(name);
+    DBMS_OUTPUT.PUT_LINE('Hello World!');
+END;
