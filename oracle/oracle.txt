@@ -1,0 +1,5 @@
+exp 아이디/비밀번호@SID file=파일명.dmp full=y
+exp 아이디/비밀번호@SID tables=테이블명,테이블명 file=파일명.dmp
+
+imp 아이디/비밀번호@SID file=파일명.dmp full=y
+imp 아이디/비밀번호@SID tables=테이블명,테이블명 file=파일명.dmp
